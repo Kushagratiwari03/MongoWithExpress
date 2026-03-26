@@ -3,7 +3,7 @@ const Chat = require("./models/chats.js");
 
 main()
     .then(() => {
-        console.log("Connection successful!");
+        console.log("Connection successful!"); 
     })
     .catch((err) => console.log(err));
 
